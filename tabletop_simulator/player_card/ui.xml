@@ -1,0 +1,53 @@
+<TableLayout columnWidths="200 400" height="600" position="0 -500 -22" width="600">
+    <Row preferredHeight="50">
+        <Cell>
+            <Text
+                alignment="upperRight"
+                color="#FFFFFF"
+                fontSize="33"
+            >Health:</Text>
+        </Cell>
+        <Cell>
+            <InputField
+                characterValidation="Decimal"
+                fontSize="33"
+                id="health"
+                onEndEdit="onUiChange"
+            >0</InputField>
+        </Cell>
+    </Row>
+    <Row preferredHeight="50">
+        <Cell>
+            <Text
+                alignment="upperRight"
+                color="#FFFFFF"
+                fontSize="33"
+            >Money:</Text>
+        </Cell>
+        <Cell>
+            <InputField
+                characterValidation="Decimal"
+                fontSize="33"
+                id="money"
+                onEndEdit="onUiChange"
+            >0</InputField>
+        </Cell>
+    </Row>
+    <Row preferredHeight="200">
+        <Cell>
+            <Text
+                alignment="upperRight"
+                color="#FFFFFF"
+                fontSize="33"
+            >Inventory:</Text>
+        </Cell>
+        <Cell>
+            <InputField
+                fontSize="33"
+                id="inventory"
+                lineType="MultiLineNewLine"
+                onEndEdit="onUiChange"
+            ></InputField>
+        </Cell>
+    </Row>
+</TableLayout>
