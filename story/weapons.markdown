@@ -5,9 +5,6 @@ Weapons are listed like so: `[modifiers] Weapon name [rolls]`
 ## Weapon modifiers
 | Symbol | Description                                                                           |
 |--------|---------------------------------------------------------------------------------------|
-
-## Weapon modifiers
-| Symbol | 
 | A      | Alternate modes. Mode dictated by `(letter)`. Upgrades affect both modes.             |
 | H      | Heavy weapon. Deals large amount of damage (+2) to vehicles and ignores armour values |
 | M      | Melee weapon                                                                          |

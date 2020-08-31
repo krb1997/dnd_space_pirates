@@ -32,7 +32,7 @@ much anything.
 - Mechanics
   - Store is dirty, cluttered but popular. 2 mechanics and some droids work
     here.
-  - Can repair all systems except weapons
+  - Can repair all systems
   - Prices are standard
   - Main workshop attendent is called Pedro.
 - Junker store
